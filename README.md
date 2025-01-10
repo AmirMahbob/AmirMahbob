@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmahbob&label=Profile%20views&color=0e75b6&style=flat" alt="amirmahbob" /> </p>
 <img align="right" alt="" width=320 src="https://i.gifer.com/1fZB.gif">
-- 👨‍💻 you can see some of my projects are available at [https://github.com/AmirMahbob](https://github.com/AmirMahbob)
+- 👨‍💻 you can see some of my projects are available at (https://github.com/AmirMahbob)
 
 - 💬 Ask me about **Python,Hack,c++,Linux,network+**
 
