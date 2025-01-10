@@ -1,3 +1,4 @@
+![logo](https://github.com/AmirMahbob/AmirMahbob/blob/main/I-Love-Working-From-Home.jpg)
 <h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">A programmer and technology lover.</h3>
 
